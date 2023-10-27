@@ -1,5 +1,5 @@
 # ChatPDF
-###This python and React project contains the web app to chat with your pdf.
+This python and React project contains the web app to chat with your pdf.
 
 To run the project use these guidelines-
 
